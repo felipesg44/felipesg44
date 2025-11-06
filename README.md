@@ -2,7 +2,7 @@
 <!--  -->
 <img align="right" width=300px alt="Unicorn" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNnZ3B4NjRlOGV5am8wY2wzc3djMTFqYWZ4amtwODR3bTA3ZHgzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HhxOF4gRo45Cf3yY8a/giphy.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+🧑🏻‍💻​***About me***
 
 I am a Software Development student, currently progressing in my studies and expanding my knowledge in both frontend and backend development. I’m passionate about creating practical, productive, and innovative solutions while learning something new with every project.
 - ​🔥​ I’m currently learning ...
