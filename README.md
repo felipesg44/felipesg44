@@ -5,10 +5,10 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I am a Software Development student, currently progressing in my studies and expanding my knowledge in both frontend and backend development. I’m passionate about creating practical, productive, and innovative solutions while learning something new with every project.
-- 🌱 I’m currently learning ...
+- ​🔥​ I’m currently learning ...
   - JavaScript
   - Databases and REST APIs
-- 👯 I’m looking to collaborate on open source projects or teams where I can improve my skills and contribute real value.
+- 👥​ I’m looking to collaborate on open source projects or teams where I can improve my skills and contribute real value.
 - ✔ Ask me about web development basics or how to get started with GitHub — I’m always happy to help!<br>
 - Outside of coding, 💜 I enjoy listening to music, 🎮 playing video games, and 📖 learning about technology and science.
 - 👾 I’m also interested in creating content about programming and sharing what I learn on my social media.
